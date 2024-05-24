@@ -13,4 +13,4 @@ Further information and data is available upon request by the author.
 ## How to cite?
 Please cite our paper if you find this work and data useful.
 
-Kevin Riehl. On the scientometric value of full-text, beyond abstracts &amp; titles – Evidence from the business and economic literature, 2024, Management Review Quarterly; LINK TBD
+Kevin Riehl. On the scientometric value of full-text, beyond abstracts &amp; titles – Evidence from the business and economic literature, 2024, Management Review Quarterly; [DOI 10.1007/s11301-024-00439-8](https://link.springer.com/article/10.1007/s11301-024-00439-8).
